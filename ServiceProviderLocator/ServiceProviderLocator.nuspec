@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>$id$</id>
+    <version>$version$</version>
+    <title>$title$</title>
+    <authors>$author$</authors>
+    <owners>$author$</owners>
+    <licenseUrl>https://github.com/danludwig/ServiceProviderLocator</licenseUrl>
+    <projectUrl>https://github.com/danludwig/ServiceProviderLocator</projectUrl>
+    <iconUrl>http://www.gravatar.com/avatar/2b36e5d2ac5fe3c2377466dd98c62d52.png</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>$description$</description>
+    <releaseNotes></releaseNotes>
+    <copyright>Copyright 2012</copyright>
+    <tags>ServiceProvider ServiceLocator</tags>
+  </metadata>
+</package>
