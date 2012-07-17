@@ -4,9 +4,9 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("ServiceProviderLocator")]
-[assembly: AssemblyDescription("Simple class for holding a static reference to an IServiceProvider instance, similar to System.Web.DependencyResolver.")]
-[assembly: AssemblyProduct("ServiceProviderLocator")]
+[assembly: AssemblyTitle("ServiceProviderLocator.CodeFacts")]
+[assembly: AssemblyDescription("Unit test project for the ServiceProviderLocator library.")]
+[assembly: AssemblyProduct("ServiceProviderLocator.CodeFacts")]
 
 // Setting ComVisible to false makes the types in this assembly not visible
 // to COM components.  If you need to access a type in this assembly from
@@ -14,4 +14,4 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("33497cb9-2713-4fe3-a64b-6acba6654ee9")]
+[assembly: Guid("7f647555-4953-4198-9800-1680ef906d0a")]
