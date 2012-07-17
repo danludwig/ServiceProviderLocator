@@ -43,6 +43,7 @@
     <Compile Include="ServiceProviderLocator.cs" />
   </ItemGroup>
   <ItemGroup>
+    <None Include="ServiceProviderLocator.1.0.nupkg" />
     <None Include="ServiceProviderLocator.nuspec" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
